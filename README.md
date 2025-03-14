@@ -2,6 +2,7 @@
 A simple command-line Tic Tac Toe (X-O) game in Python.
 
 Features
+
 🔹Two-player mode.
 
 🔹Clear and interactive UI in the terminal.
